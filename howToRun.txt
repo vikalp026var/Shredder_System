@@ -1,0 +1,19 @@
+conda create -n hand python=3.6 -y
+
+conda activate hand
+
+pip install -r requirements.txt
+
+python hand_detection.py
+
+
+
+
+
+
+#####################################
+
+demo of palm hand:
+
+
+https://www.youtube.com/watch?v=VMmfE8JtzmQ
